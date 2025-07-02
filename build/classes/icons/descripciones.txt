@@ -1,0 +1,71 @@
+Panda (Pandy):
+Pandy es un adorable oso panda que adora resolver problemas matemáticos. Con su habilidad para contar bambúes y calcular la cantidad de hojas que necesita para su merienda, es un experto en aritmética.
+
+Jirafa (Girafina):
+Girafina es una jirafa alta y elegante que ama las geometrías. Con su cuello largo, puede visualizar formas complejas desde lejos y disfrutar resolviendo puzzles geométricos.
+
+Elefante (Ellie):
+Ellie es una elefanta inteligente que disfruta de las fracciones. Con su memoria prodigiosa, puede dividir fácilmente la comida en porciones iguales para sus amigos en la selva.
+
+Conejo (Coni):
+Coni es un conejo ágil y curioso que encuentra diversión en resolver problemas de álgebra. Con su velocidad para saltar de un lugar a otro, puede resolver ecuaciones en un abrir y cerrar de ojos.
+
+Koala (Koko):
+Koko es un koala adorable que encuentra la geometría en la naturaleza. Con su amor por las figuras en los árboles y las formas de las hojas, puede enseñar sobre patrones y simetría.
+
+Zorro (Zippy):
+Zippy es un zorro astuto que disfruta de los problemas de lógica. Con su ingenio y astucia, puede resolver acertijos y rompecabezas de manera rápida y eficiente.
+
+Tigre (Tiggy):
+Tiggy es un tigre valiente que domina las operaciones matemáticas básicas. Con su fuerza y agilidad, puede sumar y restar números grandes en un abrir y cerrar de ojos.
+
+Ballena (Wally):
+Wally es una ballena amigable que adora los números grandes. Con su tamaño masivo, puede enseñar sobre números grandes y operaciones de multiplicación.
+
+Oveja (Ollie):
+Ollie es una oveja juguetona que encuentra diversión en resolver problemas de estadística. Con su capacidad para contar y organizar, puede ayudar a entender conceptos como promedio y moda.
+
+León (Leopoldo):
+Leopoldo es un león majestuoso que disfruta resolviendo problemas de geometría. Con su visión aguda y su gracia, puede enseñar sobre ángulos y formas en la naturaleza.
+
+Ardilla (Ardi):
+Ardi es una ardilla ágil que adora los problemas de matemáticas financieras. Con su habilidad para almacenar y administrar nueces, puede enseñar sobre el valor del dinero y el interés.
+
+Vaca (Violeta):
+Violeta es una vaca tranquila que encuentra belleza en los números primos. Con su disposición pacífica, puede explicar la singularidad y la importancia de los números primos en las matemáticas.
+
+Oso (Ozzy):
+Ozzy es un oso cariñoso que disfruta de los problemas de probabilidad. Con su amor por la miel y su instinto para calcular probabilidades, puede enseñar sobre eventos aleatorios de manera divertida.
+
+Capibara (Capito):
+Capito es una capibara relajada que encuentra tranquilidad en la geometría fractal. Con su amor por el agua y su naturaleza serena, puede enseñar sobre patrones repetitivos en la naturaleza.
+
+Nutria (Nina):
+Nina es una nutria juguetona que adora resolver problemas de medidas y conversiones. Con su habilidad para nadar y sumergirse, puede enseñar sobre volumen y capacidad.
+
+Orca (Orly):
+Orly es una orca majestuosa que encuentra fascinación en los números negativos. Con su gracia en el agua y su habilidad para sumergirse a grandes profundidades, puede enseñar sobre la dirección y magnitud en los números.
+
+Foca (Fiona):
+Fiona es una foca curiosa que disfruta de los problemas de proporción y razón. Con su amor por los peces y su agilidad en el agua, puede enseñar sobre proporciones en la vida marina.
+
+Ratón (Ratito):
+Ratito es un ratón travieso que encuentra diversión en los problemas de multiplicación. Con su velocidad y su habilidad para recolectar semillas, puede enseñar sobre la importancia de la multiplicación en la naturaleza.
+
+Uron (Ursula):
+Ursula es un uron enérgico que disfruta resolviendo problemas de geometría en tres dimensiones. Con su agilidad en tierra y agua, puede enseñar sobre formas tridimensionales y volúmenes.
+
+Camello (Camila):
+Camila es un camello resistente que adora resolver problemas de proporción y porcentaje. Con su capacidad para sobrevivir en el desierto y su habilidad para almacenar agua, puede enseñar sobre proporciones en entornos áridos.
+
+Morsa (Morris):
+Morris es una morsa tranquila que encuentra paz en los problemas de álgebra. Con su amor por descansar en el hielo y su agudeza mental, puede enseñar sobre ecuaciones y variables.
+
+Ciervo (Cervi):
+Cervi es un ciervo elegante que disfruta resolviendo problemas de geometría espacial. Con su gracia al saltar y correr, puede enseñar sobre formas en movimiento y coordenadas en la naturaleza.
+
+Narval (Nelly):
+Nelly es un narval encantador que encuentra fascinación en los problemas de trigonometría. Con su habilidad para nadar en aguas profundas y su agudeza en la percepción, puede enseñar sobre ángulos y distancias en el océano.
+
+Cerdo (Carlitos):
+Carlitos es un cerdo inteligente que disfruta de los problemas de aritmética básica. Con su amor por las trufas y su nariz sensible, puede enseñar sobre sumas y restas de manera lúdica.
